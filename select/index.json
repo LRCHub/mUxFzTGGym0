@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "拒否オロジー",
+  "base_artist": "amazarashi",
+  "createdAt": "2026-03-12T20:11:09.832013Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "拒否オロジー",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/01_拒否オロジー_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "拒否オロジー",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/02_拒否オロジー_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "拒否オロジー",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/03_拒否オロジー_amazarashi.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "拒否オロジー",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/pl_01_拒否オロジー_amazarashi.txt"
+    }
+  ]
+}
